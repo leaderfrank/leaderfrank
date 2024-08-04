@@ -1,17 +1,26 @@
-<link rel="stylesheet" href="styles.css">
-
-<div class="container">
-	<div class="title">
-		<h1>Mohammed Ghaleb</h1>
-	</div>
-	<div class="ghost">
-		<div></div>
-		<div></div>
-		<div></div>
-		<div></div>
-		<div></div>
-	</div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost Animation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="title">
+            <h1>Mohammed Ghaleb</h1>
+        </div>
+        <div class="ghost">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+</body>
+</html>
 
 # 💫 About Me:
 <p>🔭 I’m currently working on personal projects</p>
