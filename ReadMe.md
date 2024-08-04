@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on React, Flutter<br>🤝 I’m looking for help with finding a job<br>🌱 I’m currently learning Web App Development (Remix, Prisma, GraphQL)<br>💬 Ask me about Technologies<br>⚡ Fun fact: I'm less shy underwater—must be the fish keeping secrets! Oh, and I'm a proud AMD fan. 🐠💻
+<p>🔭 I’m currently working on personal projects</p>
+<p>👯 I’m looking to collaborate on React and Flutter</p>
+<p>🤝 I’m looking for help with finding a job</p>
+<p>🌱 I’m currently learning Web App Development (Remix, Prisma, GraphQL)</p>
+<p>💬 Ask me about Technologies</p>
+<p>⚡ Fun fact: I'm less shy underwater—must be the fish keeping secrets! Oh, and I'm a proud AMD fan. 🐠💻</p>
 
 
 ## 🌐 Socials:
