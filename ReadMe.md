@@ -6,6 +6,10 @@
 <p>💬 Ask me about Technologies</p>
 <p>⚡ Fun fact: I'm less shy underwater—must be the fish keeping secrets! Oh, and I'm a proud AMD fan. 🐠💻</p>
 
+## 👻 My Personal Projects:
+### [TaxVerge: Simplify Your Financial Management (Nuxt, Vue)](https://taxverge.com)
+### [ResumeGit: Make beautiful portfolio (React, Remix)](https://resumegit.com)
+### [Bon Yemeni: Yemeni Coffee (WordPress, PHP)](https://bonyemeni.com)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/leaderfrank) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/leaderfrank) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leaderfrank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhd-ghaleb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9357413) 
