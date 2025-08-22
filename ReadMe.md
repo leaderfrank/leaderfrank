@@ -6,6 +6,7 @@
 <p>💬 Ask me about Technologies</p>
 
 ## 👻 My Personal Projects:
+### [cvKit](https://cvkit.vercel.app)  :  My personal CV (SvelteKit, Svelte)
 ### [TaxVerge](https://taxverge.com)  :  Simplify Your Financial Management (Nuxt, Vue)
 ### [ResumeGit](https://resumegit.com)  :  Make beautiful portfolio (React, Remix)
 ### [Bon Yemeni](https://bonyemeni.com)  :  Yemeni Coffee (WordPress, PHP)
