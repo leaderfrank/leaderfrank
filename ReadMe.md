@@ -2,7 +2,7 @@
 <p>🔭 I’m currently working on personal projects</p>
 <p>👯 I’m looking to collaborate on React, Flutter and Nuxt</p>
 <p>🎓 I'm looking to pursue my Master's degree in Data Science</p>
-<p>🌱 I’m currently learning Web App Development (Vue, Nuxt, DevOps, NoSQL, Ionic)</p>
+<p>🌱 I’m currently learning Web App Development (Svelte, SvelteKit, Vue, Nuxt, DevOps, NoSQL, Ionic)</p>
 <p>💬 Ask me about Technologies</p>
 
 ## 👻 My Personal Projects:
