@@ -7,7 +7,7 @@
 
 ## 👻 My Personal Projects:
 ### [cvKit](https://cvkit.vercel.app)  :  My personal CV (SvelteKit, Svelte)
-### [TaxVerge](https://taxverge.com)  :  Simplify Your Financial Management (Nuxt, Vue)
+### [TaxVerge](https://taxverge.pages.dev)  :  Simplify Your Financial Management (Nuxt, Vue)
 ### [ResumeGit](https://rsmegit.vercel.app)  :  Make beautiful portfolio (React, Remix)
 ### [Bon Yemeni](https://bonyemeni.com)  :  Yemeni Coffee (WordPress, PHP)
 
