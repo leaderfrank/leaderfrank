@@ -7,12 +7,12 @@
 
 ## 👻 My Personal Projects:
 ### [cvKit](https://cvkit.vercel.app)  :  My personal CV (SvelteKit, Svelte)
-### [TaxVerge](https://taxverge.pages.dev)  :  Simplify Your Financial Management (Nuxt, Vue)
-### [ResumeGit](https://rsmegit.vercel.app)  :  Make beautiful portfolio (React, Remix)
-### [Bon Yemeni](https://bonyemeni.com)  :  Yemeni Coffee (WordPress, PHP)
-### [Koprey](https://koprey.kayat.site/)
-### [Zam Logix](https://zam-logix.kayat.workers.dev/)
-### [Google Play Apps](https://play.google.com/store/apps/dev?id=7415399730246466855)
+### [TaxVerge](https://taxverge.pages.dev)  :  Simplify Your Financial Management (Nuxt, Vue, MariaDB)
+### [ResumeGit](https://rsmegit.vercel.app)  :  Make beautiful portfolio (React, Remix, MariaDB)
+### [Bon Yemeni](https://bonyemeni.com)  :  Yemeni Coffee (WordPress, PHP, MySQL)
+### [Koprey](https://koprey.kayat.site/)  :  Digital services & custom web platform (React, GSAP)
+### [Zam Logix](https://zam-logix.kayat.workers.dev/)  :  Logistics & workflow management tools (Cloudflare Workers, Svelte 5, PostgreSQL)
+### [Google Play Apps](https://play.google.com/store/apps/dev?id=7415399730246466855)  :  Collection of published mobile applications (Android, Tauri, Flutter, Godot, PostgreSQL)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/leaderfrank) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/leaderfrank) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leaderfrank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhd-ghaleb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9357413) [![Baaeed](https://img.shields.io/badge/Baaeed-0055FF?logoColor=white)](https://baaeed.com/u/mhd_ghaleb) [![Haraj](https://img.shields.io/badge/Haraj-00A859?logoColor=white)](https://haraj.com.sa/en/users/koprey)
