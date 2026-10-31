@@ -6,6 +6,14 @@
 <p>💬 Ask me about Technologies</p>
 
 ## 👻 My Personal Projects:
+### [Taif — Khayyat Al-Taif](https://taif.kayat.site/)  :  Speed-optimized website for a Jeddah thobe tailor — Google Ads conversion tracking, Google Maps & WhatsApp integration, customer management & marketing system (PWA, Svelte)
+### [cvKit](https://cvkit.vercel.app)  :  My personal CV (SvelteKit, Svelte)
+### [TaxVerge](https://taxverge.pages.dev)  :  Simplify Your Financial Management (Nuxt, Vue, MariaDB)
+### [ResumeGit](https://rsmegit.vercel.app)  :  Make beautiful portfolio (React, Remix, MariaDB)
+### [Bon Yemeni](https://bonyemeni.com)  :  Yemeni Coffee (WordPress, PHP, MySQL)
+### [Koprey](https://koprey.kayat.site/)  :  Digital services & custom web platform (React, GSAP)
+### [Zam Logix](https://zam-logix.kayat.workers.dev/)  :  Logistics & workflow management tools (Cloudflare Workers, Svelte 5, PostgreSQL)
+### [Google Play Apps](https://play.google.com/store/apps/dev?id=7415399730246466855)  :  Collection of published mobile applications (Android, Tauri, Flutter, Godot, PostgreSQL)
 ### [cvKit](https://cvkit.vercel.app)  :  My personal CV (SvelteKit, Svelte)
 ### [TaxVerge](https://taxverge.pages.dev)  :  Simplify Your Financial Management (Nuxt, Vue, MariaDB)
 ### [ResumeGit](https://rsmegit.vercel.app)  :  Make beautiful portfolio (React, Remix, MariaDB)
