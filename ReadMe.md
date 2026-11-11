@@ -6,7 +6,7 @@
 <p>💬 Ask me about Technologies</p>
 
 ## 👻 My Personal Projects:
-### [Taif — Khayyat Al-Taif](https://taif.kayat.site/)  :  Speed-optimized website for a Jeddah thobe tailor — Google Ads conversion tracking, Google Maps & WhatsApp integration, customer management & marketing system (Website: PWA, Svelte, Vite) (Android: Svelte, Tauri, Rust) (Marketing: Electron, Node.js, Playwright)
+### [Taif](https://taif.kayat.site/) : Digital platform for a Jeddah thobe tailor — Website, Android app & marketing tools (Svelte, Tauri, Rust, Electron).
 ### [cvKit](https://cvkit.vercel.app)  :  My personal CV (SvelteKit, Svelte)
 ### [TaxVerge](https://taxverge.pages.dev)  :  Simplify Your Financial Management (Nuxt, Vue, MariaDB)
 ### [ResumeGit](https://rsmegit.vercel.app)  :  Make beautiful portfolio (React, Remix, MariaDB)
